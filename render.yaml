@@ -3,6 +3,6 @@ services:
     name: json_zalo
     env: node
     region: oregon # hoặc Frankfurt nếu bạn ở châu Âu
-    buildCommand: "npm install"
-    startCommand: "npx json-server --watch db.json --port 8080"
+    buildCommand: "npm install -g json-server && npm install"
+    startCommand: "json-server --watch db.json --port 8080"
     plan: free
