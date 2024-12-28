@@ -1,0 +1,28 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Naruto",
+      "description": "Câu chuyện về ninja trẻ tuổi với giấc mơ trở thành Hokage.",
+      "image": "https://images.wallpapersden.com/image/download/cool-jujutsu-kaisen-hd-satoru-gojo-anime-art_bmdlaG2UmZqaraWkpJRnbmZnrWZraGc.jpg"
+    },
+    {
+      "id": 2,
+      "title": "One Piece",
+      "description": "Hành trình của Luffy và băng Mũ Rơm tìm kho báu vĩ đại.",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.-9z_cIrR5g4GdZhTdOtluQHaEK&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "title": "Attack on Titan",
+      "description": "Cuộc chiến sống còn của loài người chống lại Titan.",
+      "image": "https://wallpapercave.com/wp/wp9643792.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Anime Girl",
+      "description": "Một hình ảnh anime aesthetic đầy nghệ thuật.",
+      "image": "https://images.wallpapersden.com/image/download/anime-girl-hd-aesthetic_bWtsZ2qUmZqaraWkpJRmZ2VlrWltZQ.jpg"
+    }
+  ]
+}
