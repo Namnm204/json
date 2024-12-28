@@ -2,6 +2,7 @@ services:
   - type: web
     name: json_zalo
     env: node
+    region: oregon # hoặc Frankfurt nếu bạn ở châu Âu
     buildCommand: "npm install"
-    startCommand: "npm start"
-    plan: free # Sử dụng gói miễn phí
+    startCommand: "npx json-server --watch db.json --port 8080"
+    plan: free
